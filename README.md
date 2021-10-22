@@ -9,48 +9,39 @@ Tổng hợp bộ cài macOS cho cả Hackintosh và RealMac
 
 ### macOS Monterey (12.x)
 ##### 11.0 Beta 3
-- Google Drive (Non Winpe) : https://by.com.vn/8t1PsW
-- Google Drive (With Winpe) : Coming Soon
+- Google Drive (Non Winpe) : https://by.com.vn/ocvn12b3
 
 ### macOS Big Sur (11.x)
 ##### 11.5
-- Google Drive (Non Winpe) : https://by.com.vn/DbUniS
-- Google Drive (With Winpe) : Coming Soon
+- Google Drive (Non Winpe) : https://by.com.vn/ocvn115
 
 ### macOS Catalina (10.15.7)
 
-- Google Drive (Non Winpe) : https://by.com.vn/8IneOY
-- Google Drive (With Winpe) : Coming Soon
+- Google Drive (Non Winpe) : https://by.com.vn/ocvn10157
 
 ### macOS Mojave (10.14.6)
 
-- Google Drive (Non Winpe) : https://by.com.vn/iRRD65
-- Google Drive (With Winpe) : https://by.com.vn/jLNY5s
+- Google Drive (Non Winpe) : https://by.com.vn/ocvn10146
 
 ### macOS High Sierra (10.13.6)
 
 - Google Drive (Non Winpe) : 
-- Google Drive (With Winpe) : Coming Soon
 
 ### macOS Sierra (10.12.x)
 
 - Google Drive (Non Winpe) :
-- Google Drive (With Winpe) : Coming Soon
 
 ### macOS El Capitan (10.11.x)
 
 - Google Drive (Non Winpe) :
-- Google Drive (With Winpe) : Coming Soon
 
 ### macOS Yosimite (10.10.x)
 
 - Google Drive (Non Winpe) :
-- Google Drive (With Winpe) : Coming Soon
 
 ### macOS Mavericks (10.9.5)
 
-- Google Drive (Non Winpe) : https://by.com.vn/y4Bpvg
-- Google Drive (With Winpe) : Coming Soon
+- Google Drive (Non Winpe) : https://by.com.vn/ocvn1095
 
 -----
 ## Hackintosh VietNam - OpenCore
