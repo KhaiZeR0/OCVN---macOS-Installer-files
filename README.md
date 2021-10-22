@@ -3,7 +3,7 @@
 </p>
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.4-blue)](https://github.com/acidanthera/OpenCorePkg)
-[![Winpe-status](https://img.shields.io/badge/Winpe_NHV_BOOT-Coming_Soon-blueviolet)](https://nhvboot.com)
+[![Winpe-status](https://img.shields.io/badge/WinPE_NHVBOOT-Yes-blueviolet)](https://nhvboot.com)
 -----
 
 # Hackintosh VietNam - OpenCore
@@ -29,6 +29,7 @@ Tổng hợp bộ cài macOS cho cả Hackintosh và RealMac
 ### macOS Mojave (10.14.6)
 
 - Google Drive (Non Winpe) : https://by.com.vn/ocvn10146
+- Google Drive (+WinPE) : https://by.com.vn/ocvn1014pe
 
 ### macOS High Sierra (10.13.6)
 
