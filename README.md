@@ -25,12 +25,12 @@ Tổng hợp bộ cài macOS cho cả Hackintosh và RealMac
 ### macOS Catalina (10.15.7)
 
 - Google Drive (Non Winpe) : https://by.com.vn/ocvn10157
-- Gogle Drive (+WinPE) : https://by.com.vn/ocvn1015pe
+- Gogle Drive (+WinPE no EFI) : https://by.com.vn/ocvn1015pe
 
 ### macOS Mojave (10.14.6)
 
 - Google Drive (Non Winpe) : https://by.com.vn/ocvn10146
-- Google Drive (+WinPE) : https://by.com.vn/ocvn1014pe
+- Google Drive (+WinPE with Clover) : https://by.com.vn/ocvn1014pe
 
 ### macOS High Sierra (10.13.6)
 
