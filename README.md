@@ -10,6 +10,8 @@
 Tổng hợp bộ cài macOS cho cả Hackintosh và RealMac
 
 ### macOS Monterey (12.x)
+##### 12.0.1
+- Google Drive (Non WinPE) : 
 ##### 12.0 Beta RC2
 - Google Drive (Non winpe) : https://by.com.vn/ocvn12rc2
 ##### 12.0 Beta 3
@@ -55,7 +57,7 @@ Tổng hợp bộ cài macOS cho cả Hackintosh và RealMac
 
 -----
 Appstore Installer .App File (macOS only)
-- macOS Monterey : Coming Soon (10/25/2021)
+- macOS Monterey : https://apps.apple.com/us/app/macos-monterey/id1576738294
 - macOS BigSur: https://apps.apple.com/vn/app/macos-big-sur/id1526878132?l=vi&mt=12
 - macOS Catalina : https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12
 - macOS Mojave: https://apps.apple.com/us/app/macos-mojave/id1398502828?mt=12
