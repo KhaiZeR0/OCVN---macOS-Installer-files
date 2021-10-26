@@ -11,7 +11,7 @@ Tổng hợp bộ cài macOS cho cả Hackintosh và RealMac
 
 ### macOS Monterey (12.x)
 ##### 12.0.1
-- Google Drive (Non WinPE) : 
+- Google Drive (Non WinPE) : https://by.com.vn/ocvn1201
 ##### 12.0 Beta RC2
 - Google Drive (Non winpe) : https://by.com.vn/ocvn12rc2
 ##### 12.0 Beta 3
