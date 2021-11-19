@@ -2,7 +2,7 @@
 	<img src="https://user-images.githubusercontent.com/54585187/126868035-43c8b9e5-328d-4dd5-81ea-bd2e6734f754.png" width="50" />
 </p>
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.4-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.5-blue)](https://github.com/acidanthera/OpenCorePkg)
 [![Winpe-status](https://img.shields.io/badge/WinPE_NHVBOOT-Yes-blueviolet)](https://nhvboot.com)
 -----
 
